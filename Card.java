@@ -1,11 +1,7 @@
 
 package cardgame;
 
-/**
- * Code in progress for teaching purposes, finish by connecting the generator
- * to the CardGame class when teaching
- * @author dancye, 2023
- */
+
 public class Card 
 {
    
